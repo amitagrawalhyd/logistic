@@ -1,0 +1,14 @@
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\bin\Release\netstandard2.0\Logistic.Mobile.deps.json
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\bin\Release\netstandard2.0\Logistic.Mobile.dll
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\bin\Release\netstandard2.0\ref\Logistic.Mobile.dll
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\bin\Release\netstandard2.0\Logistic.Mobile.pdb
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\Logistic.Mobile.csprojAssemblyReference.cache
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\Logistic.Mobile.AssemblyInfoInputs.cache
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\Logistic.Mobile.AssemblyInfo.cs
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\Logistic.Mobile.dll
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\ref\Logistic.Mobile.dll
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\Logistic.Mobile.pdb
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\Logistic.Mobile.csproj.CoreCompileInputs.cache
+D:\Logistic\Logistic.Mobile\Logistic.Mobile\obj\Release\netstandard2.0\XamlC.stamp

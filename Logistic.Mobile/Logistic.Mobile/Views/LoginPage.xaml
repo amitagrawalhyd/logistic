@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Logistic.Mobile.Views.LoginPage"
+             xmlns:helpers="clr-namespace:Logistic.Mobile.Helpers;assembly=Logistic.Mobile"
+             SizeChanged="LoginPage_OnSizeChanged">
+    <Grid x:Name="MainGrid" RowSpacing="0" ColumnSpacing="0" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0"/>
+        </Grid.ColumnDefinitions>
+        <StackLayout x:Name="DetailsStackLayout" Spacing="10">
+            <Label Text="Welcome to Logistics" TextColor="Black" FontSize="Large" FontAttributes="Bold" HorizontalOptions="Center"/>
+            <BoxView Color="Gray" HeightRequest="1" WidthRequest="100" HorizontalOptions="Center"/>
+            <Image Source="{helpers:ImageResource Logistic.Mobile.Images.smartLogisticsIcon.png}" WidthRequest="150" HeightRequest="150"/>
+        </StackLayout>
+        <StackLayout x:Name="LoginStackLayout" Grid.Row="1">
+            <Entry Placeholder="User Name"/>
+            <Entry Placeholder="Password" IsPassword="True"/>
+
+            <StackLayout Orientation="Horizontal" Margin="0,0,0,20">
+                <CheckBox Color="Accent"/>
+                <Label Text="Remember me" FontSize="Small" VerticalTextAlignment="Center"></Label>
+            </StackLayout>
+
+            <Button x:Name="BtnLogin" Text="Login" BackgroundColor="Accent" TextColor="White" FontSize="Large"/>
+            <Button x:Name="BtnLoginUsingFp" Text="Login using Finger Print" BackgroundColor="Accent" TextColor="White" FontSize="Large" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

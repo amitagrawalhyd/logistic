@@ -1,0 +1,1 @@
+D:\Logistic\Logistic.Mobile\Logistic.Mobile.UWP\Logistic.Mobile.UWP.csproj;x86
