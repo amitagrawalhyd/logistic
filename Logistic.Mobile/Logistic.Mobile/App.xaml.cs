@@ -28,6 +28,7 @@ namespace Logistic.Mobile
         {
         }
 
+
         protected override void OnResume()
         {
         }
