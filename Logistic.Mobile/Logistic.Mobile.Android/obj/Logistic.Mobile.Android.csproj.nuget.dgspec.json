@@ -37,6 +37,9 @@
               }
             }
           }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
         }
       },
       "frameworks": {

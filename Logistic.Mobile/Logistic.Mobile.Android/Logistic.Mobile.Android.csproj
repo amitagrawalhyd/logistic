@@ -66,6 +66,15 @@
     <AndroidUseAapt2>false</AndroidUseAapt2>
     <AndroidEnableMultiDex>false</AndroidEnableMultiDex>
     <AndroidSupportedAbis>x86;x86_64</AndroidSupportedAbis>
+    <AndroidPackageFormat>apk</AndroidPackageFormat>
+    <AndroidLinkTool>r8</AndroidLinkTool>
+    <AndroidKeyStore>true</AndroidKeyStore>
+    <AndroidSigningKeyStore>C:\Users\amita\AppData\Local\Xamarin\Mono for Android\Keystore\Logistic\Logistic.keystore</AndroidSigningKeyStore>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <AndroidDexTool>d8</AndroidDexTool>
+    <AndroidSigningKeyAlias>Logistic</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>Arnav@8008</AndroidSigningKeyPass>
+    <AndroidSigningStorePass>Arnav@8008</AndroidSigningStorePass>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />

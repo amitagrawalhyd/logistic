@@ -2313,6 +2313,9 @@
             }
           }
         }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true
       }
     },
     "frameworks": {
